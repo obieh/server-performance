@@ -1,4 +1,4 @@
-# server-performance
+# server-performance.
 
 # This script will provide insight on a linux server performance.
 
