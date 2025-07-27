@@ -2,7 +2,7 @@
 
 # This script will provide insight on a linux server performance.
 
-# Clone the repo
+# Clone the repo.
 git clone https://github.com/obieh/server-performance.git
 
 #Change directory to the cloned repo dir
